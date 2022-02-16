@@ -1,6 +1,0 @@
-Paracetamol-1000    200
-Vitamin_C           100
-Doliprane-500       300
-Fervex              300
-Vitamin_B12         250
-Aerius              400
